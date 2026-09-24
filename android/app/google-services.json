@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63523045543",
+    "project_id": "skytronix-485db",
+    "storage_bucket": "skytronix-485db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63523045543:android:e73b353dc1826a4b949b82",
+        "android_client_info": {
+          "package_name": "com.example.skytronix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIeAWogDkOAsz5bW3Hx7WnUJgcEDJuHGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
